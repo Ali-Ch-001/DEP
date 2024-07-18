@@ -5,7 +5,8 @@ Evently+ is a robust event platform designed to facilitate seamless event manage
 
 ## Demo
 The application is deployed at: [https://evently-plus.vercel.app](https://evently-plus.vercel.app)
-Github Repo for this [](https://github.com/Ali-Ch-001/evently/)
+
+GitHub Repo for this project: [Evently+ Repository](https://github.com/Ali-Ch-001/evently)
 
 Use the following demo login credentials:
 - **Email**: demo@evently.com
